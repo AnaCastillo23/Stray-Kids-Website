@@ -300,22 +300,4 @@ textarea:focus, input:focus {
     margin-bottom: 25px;
 }
 
-/* For next video */
-/* .youtube-bubble {
-    display: flex;
-    flex-direction: column;
-    align-items: start;
-}
-
-.bubble-for-facebook {
-    position: relative;
-    background: white;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
-    padding: 20px;
-    border-radius: 3px;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-bottom: 25px;
-} */
-
 
